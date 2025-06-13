@@ -119,4 +119,6 @@ Here's how to use the command-line interface:
 
 This project is licensed under the [MIT License](/LICENSE). You are free to use, modify, and distribute the code in accordance with the license.
 
-Update:  11 June Guest links
+
+
+Update: Plugin URLs
